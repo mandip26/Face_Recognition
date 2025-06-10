@@ -81,6 +81,3 @@ The system requires a MySQL database named `face_recognition` with an `employee`
 2. Run `EncodeGenerator.py` to update the facial encodings
 3. Add their information to the database using `AddDatatoDatabase.py`
 
-## License
-
-[MIT License](LICENSE)
