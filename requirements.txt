@@ -1,0 +1,6 @@
+face_recognition
+opencv-python (cv2)
+PyQt6
+qasync
+numpy
+mysql-connector-python
